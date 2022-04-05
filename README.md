@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chidera
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on various projects after my learning
 - 📫 How to reach me deraozoagu@gmail.com
 
